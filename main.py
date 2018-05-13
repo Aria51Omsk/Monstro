@@ -1,1 +1,1 @@
-echo "Test python"
+print "Test python"
